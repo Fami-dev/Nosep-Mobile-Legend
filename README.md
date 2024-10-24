@@ -23,21 +23,8 @@ chmod +x nosep.sh
 ```
 ----
 
-### Fitur :
- * **~~Likes 👍~~**
- * **Comment Hearts** ❤️
- * **Views** 👀
- * **Shares** 🔗
- * **Favorites** 📥
-
-----
-
-### Komen Id :
+### WARNING ⚠️ :
 > [!NOTE]
-> Buka Tiktok Website, Lalu Inspect Komen, Cari Id Komennya
-
-### Proxy :
-> [!TIP]
-> Buka website Geonode proxy
+> Setelah menjalankan mkdir, masukkan file berformat .txt dan berisi URL:LOGIN:PASS (https://mtacc.mobilelegend.com/:user:pass) lalu masukkan file ke dalam folder 1.❤️AKUNML❤️
 
 <h2 align="center">COPYRIGHT ©2024 Fami</h2>
